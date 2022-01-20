@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "reliance fresh",
+      "day": "sep 23",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "go to friend house",
+      "day": "29 september",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
